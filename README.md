@@ -58,6 +58,7 @@
 
 ## The process of operation or functioning.
 
+![](./docs/images/1.jpg)
 ![](./docs/images/2.jpg)
 
 ## Result

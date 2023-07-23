@@ -60,7 +60,6 @@
 
 ![](./docs/images/1.jpg)
 ![](./docs/images/2.jpg)
-![](./docs/images/3.jpg)
 
 ## Result
 

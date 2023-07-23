@@ -65,7 +65,7 @@
 ## Result
 
 ```
-POST http://127.0.0.1/join
+POST http://127.0.0.1:8080/join
 {
     "name": "hello",
     "email": "hello@example.com",
@@ -76,7 +76,7 @@ POST http://127.0.0.1/join
     "address2": "hello address2"
 }
 
-GET http://127.0.0.1/me/2
+GET http://127.0.0.1:8080/me/2
 {
     "name": "world",
     "email": "world@example.com",

@@ -58,7 +58,6 @@
 
 ## The process of operation or functioning.
 
-![](./docs/images/1.jpg)
 ![](./docs/images/2.jpg)
 
 ## Result
@@ -93,7 +92,7 @@ GET http://127.0.0.1:8080/me/2
 
 👤 **Kevin Ahn**
 
-* Github: [@maketheworldwise](https://github.com/maketheworldwise)
+- Github: [@maketheworldwise](https://github.com/maketheworldwise)
 
 ## References
 
